@@ -2,7 +2,6 @@
 
 App allows you to search characters from a Star Wars, add/remove them to/from your favorites list.
 
-Server's repository for the app https://github.com/BartekSkr/star-wars-characters-server
 
 ### Build using:
 
@@ -17,13 +16,4 @@ Server's repository for the app https://github.com/BartekSkr/star-wars-character
 - [React-Toastify](https://fkhadra.github.io/react-toastify/how-to-style)
 - [Framer Motion](https://www.framer.com/docs/introduction)
 
-### Setup
 
-To run app click [Star Wars App](https://bartek-star-wars-characters.netlify.app)
-
-or download the code run it locally:
-
-```
-$ yarn
-$ yarn start
-```
